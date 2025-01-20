@@ -1,4 +1,4 @@
-Migración SICO       
+Migración entre dos ambientes.       
 --
 Pasos para la migración entre ambientes.
 
