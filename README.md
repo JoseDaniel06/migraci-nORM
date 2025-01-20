@@ -71,3 +71,6 @@ SELECT  'OBJETOS INVALIDOS' ELEMENTO, count(*) CANTIDAD
                   'TRIGGER', 'VIEW')
 order by 1
 ```
+---
+
+**Nota:** Para más información sobre la instalación el siguiente repositorio se encuentra la guía paso a paso. **https://github.com/JoseDaniel06/installORMv5.1.0.8.git**
